@@ -20,3 +20,8 @@
 - Confirms the hire, writes the employee's memory, installs their custom skill set, then puts them to work live on the task the client hates most.
 - Hands over the employee with their full skill roster, like a new-hire resume.
 - Honest tiering: expert-level work now, full unattended tool autonomy after connecting tools (done-with-you tier).
+
+## v1.3 — 2026-05-30
+- Intake now asks the client's GOAL (revenue number, time back, systems that run without them, leads, a launch). The employee aims every task and skill at that goal.
+- Goal is stored at the top of the employee's memory, baked into generated skills where it fits, and restated at handover.
+- Merged the tools and automation questions into one to keep the intake tight.
