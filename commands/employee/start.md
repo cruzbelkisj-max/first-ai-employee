@@ -45,8 +45,9 @@ Here is what we build together, in order:
 
 ```
   STEP 1  /employee:build
-          An assistant that knows YOUR business, clients,
-          and voice. We write it together in plain English.
+          An assistant that knows YOUR business and voice.
+          Then it does the task you hate most, live, so
+          you see this is real in the first 2 minutes.
 
   STEP 2  /employee:skill
           Teach your assistant one new ability it runs on
