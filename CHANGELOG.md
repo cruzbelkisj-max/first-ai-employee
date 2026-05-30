@@ -14,3 +14,9 @@
 - Handles tasks it cannot literally perform (physical work, logins) by building the template or skill that removes the pain, so it never ends empty-handed.
 - build now bridges straight into /employee:skill ("turn the task you hate into a one-tap button").
 - Welcome roadmap teases the live win up front.
+
+## v1.2 — 2026-05-30
+- /employee:build is now a hiring engine. It diagnoses the exact role each client needs through a 7-question intake, then GENERATES custom skills tailored to that client's role, industry, tools, and voice. No two clients get the same employee.
+- Confirms the hire, writes the employee's memory, installs their custom skill set, then puts them to work live on the task the client hates most.
+- Hands over the employee with their full skill roster, like a new-hire resume.
+- Honest tiering: expert-level work now, full unattended tool autonomy after connecting tools (done-with-you tier).

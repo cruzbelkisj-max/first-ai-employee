@@ -45,9 +45,9 @@ Here is what we build together, in order:
 
 ```
   STEP 1  /employee:build
-          An assistant that knows YOUR business and voice.
-          Then it does the task you hate most, live, so
-          you see this is real in the first 2 minutes.
+          A few questions to find the exact role you need.
+          Then I build a tailored employee, give them custom
+          skills for YOUR work, and put them to work live.
 
   STEP 2  /employee:skill
           Teach your assistant one new ability it runs on
